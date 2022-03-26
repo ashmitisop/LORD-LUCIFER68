@@ -1,14 +1,14 @@
 Lord Lucifer
 <p align="center">
-  <img src="./resources/logo.jpg" alt="RiZoeLXSpam Logo">
+  <img src="./https://te.legra.ph/file/a753c24009f905f29a998.jpg" alt="Lord Lucifer Logo">
 </p>
 <h1 align="center">
   <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
 </h1>
 
-[![Forks](https://img.shields.io/github/forks/MrRizoel/RiZoeLXSpam?style=flat-square&color=orange)](https://github.com/MrRizoel/RiZoeLXSpam/fork)
+[![Forks](https://img.shields.io/github/forks/LordLucifer/LordXSpam?style=flat-square&color=orange)](https://github.com/LordLucifer/LordXSpam/fork)
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrRizoel/RiZoeLXSpam)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LordLucifer/LordXSpam)   
 ----
  
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
@@ -36,5 +36,5 @@ Lord Lucifer
 * [Support Group](https://t.me/HELL_CLASHERS)
 
 # Credits
-* [RiZoeL Creator](https://github.com/MrRizoel)
+* [Lord Creator](https://github.com/MrRizoel)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
