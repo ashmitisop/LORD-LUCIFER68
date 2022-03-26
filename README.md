@@ -3,7 +3,7 @@ Lord Lucifer
   <img src="./https://te.legra.ph/file/a753c24009f905f29a998.jpg" alt="Lord Lucifer Logo">
 </p>
 <h1 align="center">
-  <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
+  <b>ʟᴜᴄɪғɪᴇʀ X sᴘᴀᴍ</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/LordLucifer/LordXSpam?style=flat-square&color=orange)](https://github.com/LordLucifer/LordXSpam/fork)
