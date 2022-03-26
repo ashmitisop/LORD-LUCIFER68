@@ -29,7 +29,7 @@ Lord Lucifer
 
 
 # Op commands
-[![Commands](https://img.shields.io/badge/RiZoeLXSpam-CMDS-blue)](https://t.me/Resourcez/4)
+[![Commands](https://img.shields.io/badge/Lord-CMDS-blue)](https://t.me/Resourcez/4)
 
 # Support & Updates
 * [Channel](https://t.me/itzmelucifer69)
