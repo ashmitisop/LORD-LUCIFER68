@@ -36,5 +36,4 @@ Lord Lucifer
 * [Support Group](https://t.me/HELL_CLASHERS)
 
 # Credits
-* [Lord Creator](https://github.com/MrRizoel)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [Lord Creator]
