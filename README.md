@@ -28,7 +28,7 @@ Lord Lucifer
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/XSpam-Deploy)
 
 
-# ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs
+# Op commands
 [![Commands](https://img.shields.io/badge/RiZoeLXSpam-CMDS-blue)](https://t.me/Resourcez/4)
 
 # Support & Updates
