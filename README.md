@@ -21,7 +21,7 @@ Lord Lucifer
 
 ### Generate string session from below:
 
-[![GenerateString](https://img.shields.io/badge/RiZoeLXSpam-String-yellowgreen)](https://replit.com/@RiZoeL/RiZoeLXSpam#main.py) ``Telethon``
+[![GenerateString](https://img.shields.io/badge/LordXSpam-String-yellowgreen)](@SessionStringGeneratorZBot) ``Telethon``
 
 # Deploy on heroku
 
