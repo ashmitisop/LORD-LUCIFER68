@@ -1,5 +1,4 @@
-# LORD-LUCIFER
-Spam bot by Lucifer
+Lord Lucifer
 <p align="center">
   <img src="./resources/logo.jpg" alt="RiZoeLXSpam Logo">
 </p>
@@ -33,8 +32,8 @@ Spam bot by Lucifer
 [![Commands](https://img.shields.io/badge/RiZoeLXSpam-CMDS-blue)](https://t.me/Resourcez/4)
 
 # Support & Updates
-* [Channel](https://t.me/RiZoeLX)
-* [Support Group](https://t.me/DNHxHELL)
+* [Channel](https://t.me/itzmelucifer69)
+* [Support Group](https://t.me/HELL_CLASHERS)
 
 # Credits
 * [RiZoeL Creator](https://github.com/MrRizoel)
