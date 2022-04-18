@@ -1,39 +1,63 @@
-Lord Lucifer
-<p align="center">
-  <img src="./https://te.legra.ph/file/a753c24009f905f29a998.jpg" alt="Lord Lucifer Logo">
-</p>
 <h1 align="center">
-  <b>ʟᴜᴄɪғɪᴇʀ X sᴘᴀᴍ</b>
+  <b>ℓσʀɖ ℓυcιғεʀ 🇮🇳</b>
 </h1>
 
-[![Forks](https://img.shields.io/github/forks/LordLucifer/LordXSpam?style=flat-square&color=orange)](https://github.com/LordLucifer/LordXSpam/fork)
-[![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LordLucifer/LordXSpam)   
-----
- 
-- [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
-- [x] Deploy upto 40 UserBots in One time 🔥
-- [x] Dm Spam / Raid
-- [x] Pornspam 
-- [x] You can also add members using Spam Bots 
-- [x] By LORD LUCIFER
+<p align="center">
+  <img src="https://te.legra.ph/file/a2b0a935911c2c41ca785.jpg" alt="The-HellBot">
+</p>
+
+<h6 align="center">
+  <b>⚡ℓσʀɖ ℓυcιғεʀ sραм вσт⚡</b>
+</h6>
+
+<h3 align="center">
+  <b>α sмσσтн αηɖ  ғαsт тεℓεgяαм sραм вσт</b>
+</h3>
+
+------
+[![GitHub forks](https://img.shields.io/github/forks/ashmitisop/LORD-LUCIFER?&style=flat-square&logo=github)](https://github.com/ashmitisop/LORD-LUCIFER/fork)
+[![GitHub stars](https://img.shields.io/github/stars/ashmitisop/LORD-LUCIFER?&style=flat-square&logo=github)](https://github.com/ashmitisop/LORD-LUCIFER/stargazers)
+![Repo Size](https://img.shields.io/github/repo-size/ashmitisop/LORD-LUCIFER?&style=flat-square&logo=github)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
+[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
+![Branch](https://img.shields.io/badge/Branch-main-orange)
+
+------
+## тεℓεgяαм
+- [sυρρσят](https://t.me/SAFFRON_X_KINGDOM)
+- [cнαηηεℓ](https://t.me/LORDLUCIFER_69)
+
+------
+## ᴅερℓσү 🚀
+[![Heroku](https://te.legra.ph/file/f210abed7975ea59303cf.jpg)](https://heroku.com/deploy?template=https://github.com/ashmitisop/LORD-LUCIFER)
 
 
-### Generate string session from below:
+------
+## ᴅερℓσү тσ нεяυкσ
+- ɢᴇᴛ ᴀʟʟ ɴᴇᴄᴇssᴀʀʏ ᴠᴀʀɪᴀʙʟᴇs ᴀɴᴅ ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
+- sᴏᴍᴇ ᴍᴀɴᴅᴀᴛᴏʀʏ ᴠᴀʀɪᴀʙʟᴇs ᴀʀᴇ ʟɪsᴛᴇᴅ [нεяε](#vαяιαвℓεs)
+- sᴛᴀʀ ᴛʜɪs ʀᴇᴘᴏ
 
-[![GenerateString](https://img.shields.io/badge/LordXSpam-String-yellowgreen)](@SessionStringGeneratorZBot) ``Telethon``
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ashmitisop/LORD-LUCIFER)
 
-# Deploy on heroku
+------
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/XSpam-Deploy)
+## vαяιαвℓεs
 
+- `APP_ID`  =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ [ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀɢ](https://my.telegram.org/auth)
+- `API_HASH`  =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғᴏʀᴍ [ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀɢ](https://my.telegram.org/auth)
+- `SESSION`  =  ɢᴇᴛ ᴛʜɪs ʙʏ ᴜsɪɴɢ [ʀερℓιт](#ʀερℓιт)
+- `SUDO_USER`  = ᴜsᴇʀ ɪᴅ
 
-# Op commands
-[![Commands](https://img.shields.io/badge/Lord-CMDS-blue)](https://t.me/Resourcez/4)
+------
 
-# Support & Updates
-* [Channel](https://t.me/itzmelucifer69)
-* [Support Group](https://t.me/HELL_CLASHERS)
+### ʀερℓιт 
+- ᴄʟɪᴄᴋ ᴏɴ ɪᴍᴀɢᴇ
 
-# Credits
-* [Lord Creator]
+[![яερℓιт](https://te.legra.ph/file/ed5a82d6686d953473f1e.jpg)](https://replit.com/@KillerXaman/KillerXspam)
+
+------
+
+## σωɳεʀ
+
+- 💖 [ℓσʀɖ ℓυcιғεʀ](https://t.me/HINDU_LORD_LUCIFER)
