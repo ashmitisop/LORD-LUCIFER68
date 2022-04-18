@@ -52,9 +52,8 @@
 ------
 
 ### ʀερℓιт 
-- ᴄʟɪᴄᴋ ᴏɴ ɪᴍᴀɢᴇ
 
-[![яερℓιт](https://te.legra.ph/file/ed5a82d6686d953473f1e.jpg)](https://replit.com/@KillerXaman/KillerXspam)
+[![Run on Repl.it](https://repl.it/badge/github/ashmitisop/LORD-LUCIFER)](https://replit.com/@KillerXaman/KillerXspam)
 
 ------
 
